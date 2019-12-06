@@ -1,4 +1,4 @@
-# src
+# vue-typescript-sample
 
 ## Project setup
 ```
